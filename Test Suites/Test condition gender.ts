@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Test condition gender</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <lastRun>2018-06-07T13:39:02</lastRun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>afcee0f7-0334-4355-ad6a-2fe74b25a4c4</testSuiteGuid>
+   <testCaseLink>
+      <guid>639bb9c4-4b21-4fe3-ab60-9820c1db5ae1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Test condition gender</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>da5e8d05-c8e9-4e59-a19f-23f7c4a52760</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TestApicoditiongender</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>da5e8d05-c8e9-4e59-a19f-23f7c4a52760</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>chusen_group_id</value>
+         <variableId>791e1451-b3d2-4761-b1b4-3ec225e35c4c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>da5e8d05-c8e9-4e59-a19f-23f7c4a52760</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>type</value>
+         <variableId>dd91fbee-25f5-4802-99b2-472d4a94fffd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>da5e8d05-c8e9-4e59-a19f-23f7c4a52760</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>reverse_condition</value>
+         <variableId>ef037664-ca70-46a7-b2b6-cf97dc4f6ff0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>da5e8d05-c8e9-4e59-a19f-23f7c4a52760</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>target</value>
+         <variableId>4c289a2d-ab24-4952-bacd-0509f5177b57</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>da5e8d05-c8e9-4e59-a19f-23f7c4a52760</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>number_of_ticket</value>
+         <variableId>18412852-d194-479f-aefb-e7ced7a9a7b1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>da5e8d05-c8e9-4e59-a19f-23f7c4a52760</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>number_of_order</value>
+         <variableId>52275090-2e0a-4146-9be6-c80f6a909f59</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

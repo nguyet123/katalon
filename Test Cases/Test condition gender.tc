@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test condition gender</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9c726ac0-417f-49e6-8de0-22727d31d232</testCaseGuid>
+   <variable>
+      <defaultValue>'80'</defaultValue>
+      <description></description>
+      <id>791e1451-b3d2-4761-b1b4-3ec225e35c4c</id>
+      <masked>false</masked>
+      <name>chusen_group_id</name>
+   </variable>
+   <variable>
+      <defaultValue>'gender'</defaultValue>
+      <description></description>
+      <id>dd91fbee-25f5-4802-99b2-472d4a94fffd</id>
+      <masked>false</masked>
+      <name>type</name>
+   </variable>
+   <variable>
+      <defaultValue>'false'</defaultValue>
+      <description></description>
+      <id>ef037664-ca70-46a7-b2b6-cf97dc4f6ff0</id>
+      <masked>false</masked>
+      <name>reverse_condition</name>
+   </variable>
+   <variable>
+      <defaultValue>'male'</defaultValue>
+      <description></description>
+      <id>4c289a2d-ab24-4952-bacd-0509f5177b57</id>
+      <masked>false</masked>
+      <name>target</name>
+   </variable>
+   <variable>
+      <defaultValue>'1677'</defaultValue>
+      <description></description>
+      <id>18412852-d194-479f-aefb-e7ced7a9a7b1</id>
+      <masked>false</masked>
+      <name>number_of_ticket</name>
+   </variable>
+   <variable>
+      <defaultValue>'818'</defaultValue>
+      <description></description>
+      <id>52275090-2e0a-4146-9be6-c80f6a909f59</id>
+      <masked>false</masked>
+      <name>number_of_order</name>
+   </variable>
+</TestCaseEntity>
